@@ -6,7 +6,7 @@ const songList = document.getElementById("songList");
 const songs = [
     {
       name: "Trusha",
-      file: "https://open.spotify.com/track/69EYQpNVv9MlcjNnnhjw6B?si=aeda8f7bd3d34379",
+      file: "Song1.mp3",
       cover: "IMG_20250606_205827_001.jpg"
     },
     {
