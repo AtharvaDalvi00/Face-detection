@@ -8,17 +8,7 @@ const songs = [
       name: "Trusha",
       file: "Song1.mp3",
       cover: "IMG_20250606_205827_001.jpg"
-    },
-    {
-      name: "Line Without Hook",
-      file: "songs/Song2.mp3",
-      cover: "PHOTO-2025-07-05-22-13-38.png"
-    },
-    {
-      name: "Qafirana",
-      file: "songs/Song3.mp3",
-      cover: "PHOTO-2025-07-05-23-36-42.jpg"
-    },
+    }
     // Add more...
   ];
   
