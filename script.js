@@ -7,7 +7,7 @@ const songs = [
     {
       name: "Trusha",
       file: "Song1.mp3",
-      cover: "IMG_20250606_205827_001.jpg"
+      cover: "1.jpg"
     }
     // Add more...
   ];
