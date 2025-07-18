@@ -8,8 +8,46 @@ const songs = [
       name: "Trusha",
       file: "Song1.mp3",
       cover: "image/1.jpg"
+    },
+    {
+      name: "Line without hook",
+      file: "Song2.mp3",
+      cover: "image/2.jpg"
+
+    },
+    {
+      name: "Quafirana",
+      file: "Song3.mp3",
+      cover:"image/3.jpg"
+    },
+    {
+      name: "Heartquake",
+      file: "Song4.mp3",
+      cover: "image/4.jpg"
+    },
+    {
+      name: "Sunflower",
+      file: "Song5.mp3",
+      cover: "image/5.jpg"
+    },
+    {
+      name: "Phir le aya dil",
+      file: "Song6.mp3",
+      cover: "image/6.jpg"
+    },
+    {
+      name: "Othayadi Pathaiyila",
+      file: "Song7.mp3",
+      cover: "image/7.jpg"
+    },
+    {
+      name: "Onakka Munthari",
+      file: "Song8.mp3",
+      cover: "image/Song9.mp3"
+    },
+    {
+      
     }
-    // Add more...
   ];
   
 let currentSongIndex = 0;
